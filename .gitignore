@@ -1,5 +1,5 @@
 # PreTeXt build outputs
-output/
+# output/  ← COMMENTED OUT so GitHub Pages can see the files
 generated-assets/
 
 # Python
@@ -19,3 +19,21 @@ Thumbs.db
 # Logs
 logs/
 *.log
+```
+
+Just add `#` in front of `output/` to comment it out.
+
+**Then in GitHub Desktop:**
+1. You'll see the `.gitignore` file changed
+2. You'll also see ALL the files in `output/web/` appear as new changes
+3. Commit: "Add output files for GitHub Pages"
+4. Push
+
+**Do this for BOTH:**
+- `E:\jc-maths\.gitignore`
+- `E:\lc-maths\.gitignore`
+
+After pushing, wait 2-3 minutes and your sites will be live! 🚀
+```
+https://ronandownes.github.io/jc-maths/output/web/
+https://ronandownes.github.io/lc-maths/output/web/
