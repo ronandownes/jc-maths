@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication>
+  <common>
+    <chunking level="2"/>
+    <tableofcontents level="2"/>
+  </common>
+  
+  <source>
+    <directories external="../assets" generated="../generated-assets"/>
+  </source>
+  
+  <html>
+    <index-page ref="frontmatter"/>
+    <calculator model="geogebra-graphing"/>
+    <baseurl href="https://www.example.com/jc-maths"/>
+    
+    <!-- Collapsible navigation with expand/collapse arrows -->
+    <navigation logic="tree"/>
+  </html>
+  
+  <latex print="yes" sides="two">
+    <page>
+      <geometry>letterpaper,margin=1in</geometry>
+    </page>
+  </latex>
+</publication>

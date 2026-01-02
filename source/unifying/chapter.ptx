@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="unifying" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Unifying Strand</title>
+  
+  <introduction>
+    <p>
+      The Unifying strand develops the mathematical practices that connect all areas 
+      of mathematics: thinking, reasoning, communicating, and problem-solving.
+    </p>
+  </introduction>
+  
+  <section xml:id="mathematical-thinking">
+    <title>Mathematical Thinking</title>
+    
+    <p>
+      Mathematical thinking involves recognizing patterns, making connections, and 
+      asking questions.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="representation">
+    <title>Representation</title>
+    
+    <p>
+      Mathematics can be represented in many ways: symbols, diagrams, tables, graphs, 
+      and words.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="connections">
+    <title>Connections</title>
+    
+    <p>
+      Mathematics connects to itself, to other subjects, and to the real world.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="problem-solving">
+    <title>Problem Solving</title>
+    
+    <p>
+      Problem solving is at the heart of mathematics.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="reasoning">
+    <title>Reasoning and Proof</title>
+    
+    <p>
+      Mathematical reasoning builds arguments and justifies conclusions.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="communication">
+    <title>Communication</title>
+    
+    <p>
+      Communicating mathematical ideas clearly is essential.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <exercises xml:id="unifying-exercises">
+    <title>Exercises</title>
+    
+    <exercise>
+      <statement>
+        <p>
+          Practice problems to be added.
+        </p>
+      </statement>
+    </exercise>
+  </exercises>
+
+</chapter>

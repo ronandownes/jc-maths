@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+  
+  <docinfo>
+    <macros>
+      \newcommand{\N}{\mathbb{N}}
+      \newcommand{\Z}{\mathbb{Z}}
+      \newcommand{\Q}{\mathbb{Q}}
+      \newcommand{\R}{\mathbb{R}}
+      \newcommand{\C}{\mathbb{C}}
+    </macros>
+    
+    <latex-image-preamble>
+      \usepackage{tikz}
+      \usepackage{pgfplots}
+      \pgfplotsset{compat=1.18}
+    </latex-image-preamble>
+  </docinfo>
+
+  <book xml:id="jc-maths">
+    <title>Junior Cycle Mathematics</title>
+
+    <frontmatter xml:id="frontmatter">
+      <titlepage>
+        <author>
+          <personname>Mr Ronan Downes</personname>
+        </author>
+        <date><today/></date>
+      </titlepage>
+
+      <preface xml:id="preface">
+        <title>How to Use This Book</title>
+        
+        <p>
+          This book covers the Junior Cycle Mathematics specification, organized into 
+          five strands that reflect how mathematics is structured and used.
+        </p>
+        
+        <subsection xml:id="jc-strands">
+          <title>The Five Strands</title>
+          
+          <ol>
+            <li><p><alert>Unifying</alert> <mdash/> Mathematical thinking, reasoning, 
+            communication, and problem-solving that connects all areas</p></li>
+            
+            <li><p><alert>Number</alert> <mdash/> Number systems, operations, factors, 
+            multiples, primes, fractions, decimals, percentages, ratio, proportion</p></li>
+            
+            <li><p><alert>Geometry and Trigonometry</alert> <mdash/> Shapes, angles, 
+            constructions, coordinate geometry, transformations, measurement</p></li>
+            
+            <li><p><alert>Algebra</alert> <mdash/> Expressions, equations, patterns, 
+            sequences, graphing</p></li>
+            
+            <li><p><alert>Functions</alert> <mdash/> Relationships between quantities, 
+            graphical representation, introduction to calculus concepts</p></li>
+          </ol>
+        </subsection>
+
+        <subsection xml:id="study-approach">
+          <title>How to Study Mathematics</title>
+          
+          <p>
+            Mathematics is learned by doing, not by passive reading.
+          </p>
+          
+          <p>
+            For each section:
+          </p>
+          
+          <ol>
+            <li><p>Read carefully with pen and paper</p></li>
+            <li><p>Work through examples step by step</p></li>
+            <li><p>Write out key ideas in your own words</p></li>
+            <li><p>Practice exercises until fluent</p></li>
+            <li><p>Return to difficult concepts multiple times</p></li>
+          </ol>
+          
+          <p>
+            <alert>Understanding builds on understanding.</alert> Each concept prepares 
+            you for the next. You cannot skip ahead without missing essential foundations.
+          </p>
+        </subsection>
+
+        <subsection xml:id="exam-prep">
+          <title>Preparing for Assessments</title>
+          
+          <p>
+            Junior Cycle assessments test both:
+          </p>
+          
+          <ul>
+            <li><p><alert>Knowledge and skills</alert> <mdash/> Can you perform 
+            calculations accurately and use procedures correctly?</p></li>
+            
+            <li><p><alert>Understanding and reasoning</alert> <mdash/> Can you explain 
+            your thinking, solve unfamiliar problems, and apply mathematics in context?</p></li>
+          </ul>
+          
+          <p>
+            This book provides the theory and understanding. Practice exercises build 
+            your skills. Problem-solving activities develop your reasoning.
+          </p>
+        </subsection>
+      </preface>
+    </frontmatter>
+
+    <!-- Include chapter files -->
+    <xi:include href="unifying/chapter.ptx"/>
+    <xi:include href="number/chapter.ptx"/>
+    <xi:include href="geometry-trig/chapter.ptx"/>
+    <xi:include href="algebra/chapter.ptx"/>
+    <xi:include href="functions/chapter.ptx"/>
+
+    <backmatter xml:id="backmatter">
+      <index>
+        <title>Index</title>
+        <index-list/>
+      </index>
+    </backmatter>
+
+  </book>
+</pretext>

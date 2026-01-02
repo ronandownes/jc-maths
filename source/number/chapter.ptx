@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="number" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Number</title>
+  
+  <introduction>
+    <p>
+      The Number strand develops understanding of number systems, operations, and 
+      their applications.
+    </p>
+  </introduction>
+  
+  <section xml:id="number-systems">
+    <title>Number Systems</title>
+    
+    <p>
+      We work with natural numbers, integers, rational numbers, and eventually 
+      real numbers.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="operations">
+    <title>Operations</title>
+    
+    <p>
+      The four operations (addition, subtraction, multiplication, division) and 
+      order of operations.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="factors-multiples">
+    <title>Factors, Multiples, and Primes</title>
+    
+    <p>
+      Understanding factors, multiples, prime numbers, and divisibility.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="fractions-decimals">
+    <title>Fractions and Decimals</title>
+    
+    <p>
+      Working with fractions, decimals, and their equivalence.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="percentages">
+    <title>Percentages</title>
+    
+    <p>
+      Understanding percentages and their applications.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="ratio-proportion">
+    <title>Ratio and Proportion</title>
+    
+    <p>
+      Working with ratios and proportional relationships.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <exercises xml:id="number-exercises">
+    <title>Exercises</title>
+    
+    <exercise>
+      <statement>
+        <p>
+          Practice problems to be added.
+        </p>
+      </statement>
+    </exercise>
+  </exercises>
+
+</chapter>

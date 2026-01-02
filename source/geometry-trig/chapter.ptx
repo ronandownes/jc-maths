@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="geometry-trig" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Geometry and Trigonometry</title>
+  
+  <introduction>
+    <p>
+      The Geometry and Trigonometry strand explores shapes, spatial relationships, 
+      and measurement.
+    </p>
+  </introduction>
+  
+  <section xml:id="shapes-angles">
+    <title>Shapes and Angles</title>
+    
+    <p>
+      Properties of 2D shapes and angle relationships.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="constructions">
+    <title>Constructions</title>
+    
+    <p>
+      Geometric constructions using compass and straightedge.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="coordinate-geometry-jc">
+    <title>Coordinate Geometry</title>
+    
+    <p>
+      The coordinate plane, distance, and midpoint.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="transformations">
+    <title>Transformations</title>
+    
+    <p>
+      Translations, reflections, rotations, and enlargements.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="area-volume">
+    <title>Area and Volume</title>
+    
+    <p>
+      Calculating area, perimeter, surface area, and volume.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <exercises xml:id="geometry-exercises">
+    <title>Exercises</title>
+    
+    <exercise>
+      <statement>
+        <p>
+          Practice problems to be added.
+        </p>
+      </statement>
+    </exercise>
+  </exercises>
+
+</chapter>

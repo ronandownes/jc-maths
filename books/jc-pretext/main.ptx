@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pretext xmlns="http://pretextbook.org/ns/pretext">
+  <book xml:id="jc-maths">
+    <title>Junior Cycle Mathematics</title>
+
+    <frontmatter>
+      <preface>
+        <title>How to Use This Book</title>
+        <p>
+          This book follows the Irish Junior Cycle Mathematics specification.
+        </p>
+      </preface>
+    </frontmatter>
+
+    <chapter xml:id="unifying">
+      <title>Unifying</title>
+      <xi:include href="source/unifying/unifying-thinking.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/unifying/representation.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/unifying/connections.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/unifying/problem-solving.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/unifying/reasoning-proof.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/unifying/communication.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    </chapter>
+
+    <chapter xml:id="number">
+      <title>Number</title>
+      <xi:include href="source/number/number-systems.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/number/place-value.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/number/operations.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/number/factors-multiples-primes.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/number/fractions-decimals-percentages.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/number/ratio-proportion.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/number/indices.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/number/sets.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/number/numerical-patterns.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    </chapter>
+
+    <chapter xml:id="algebra">
+      <title>Algebra</title>
+      <xi:include href="source/algebra/patterns-relationships.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/algebra/expressions.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/algebra/simplifying.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/algebra/expanding.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/algebra/factorising.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/algebra/equations-linear.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/algebra/equations-quadratic.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/algebra/inequalities.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/algebra/rearranging-formulae.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    </chapter>
+
+    <chapter xml:id="geometry">
+      <title>Geometry</title>
+      <xi:include href="source/geometry/measurement-units.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/geometry/perimeter-area.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/geometry/volume-surface-area.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/geometry/geometry-terms.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/geometry/constructions.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/geometry/theorems-proof.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/geometry/coordinate-geometry.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/geometry/transformations.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/geometry/trigonometry-right-angled.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    </chapter>
+
+    <chapter xml:id="statistics">
+      <title>Statistics</title>
+      <xi:include href="source/statistics/data-types.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/statistics/collecting-data.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/statistics/frequency-tables.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/statistics/graphs.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/statistics/averages.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/statistics/spread.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/statistics/misuse-statistics.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    </chapter>
+
+    <chapter xml:id="probability">
+      <title>Probability</title>
+      <xi:include href="source/probability/chance-language.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/probability/sample-spaces.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/probability/tree-diagrams.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/probability/probability-rules.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+      <xi:include href="source/probability/experimental-probability.ptx" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    </chapter>
+
+  </book>
+</pretext>

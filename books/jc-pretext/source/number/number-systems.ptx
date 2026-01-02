@@ -1,0 +1,158 @@
+<section xml:id="number-systems">
+  <title>Number Systems</title>
+
+  <p>
+    Mathematics begins with counting, but it does not end there.
+    When operations fail, mathematics responds by extending the number system.
+    In this way, each new system solves problems the previous one could not.
+  </p>
+
+  <section xml:id="natural-numbers">
+    <title>The Natural Numbers</title>
+
+    <p>
+      The natural numbers are the counting numbers:
+      <m>\N = \{1,2,3,4,\dots\}</m>.
+      They arise from the successor operation: adding one.
+    </p>
+
+    <p>
+      The natural numbers are discrete.
+      There are gaps between them, and not all arithmetic operations are possible.
+    </p>
+
+    <p>
+      They are closed under addition and multiplication,
+      but not under subtraction or division.
+    </p>
+  </section>
+
+  <section xml:id="integers">
+    <title>The Integers</title>
+
+    <p>
+      Subtraction such as <m>3 - 5</m> is not possible in <m>\N</m>.
+      To fix this, we introduce zero and negative numbers.
+    </p>
+
+    <p>
+      This gives the integers:
+      <m>\Z = \{\dots,-3,-2,-1,0,1,2,3,\dots\}</m>.
+    </p>
+
+    <p>
+      The integers are closed under addition, subtraction, and multiplication,
+      but division still fails.
+    </p>
+  </section>
+
+  <section xml:id="rational-numbers">
+    <title>The Rational Numbers</title>
+
+    <p>
+      Division such as <m>1 \div 2</m> has no solution in <m>\Z</m>.
+      To make division possible, we introduce fractions.
+    </p>
+
+    <p>
+      The rational numbers are:
+      <m>\Q = \left\{\frac{a}{b} : a,b \in \Z,\, b \neq 0\right\}</m>.
+    </p>
+
+    <p>
+      Rational numbers include fractions, terminating decimals,
+      and repeating decimals.
+    </p>
+
+    <p>
+      Between any two rational numbers, there is another rational number.
+      This property is called density.
+    </p>
+  </section>
+
+  <section xml:id="irrational-numbers">
+    <title>Irrational Numbers</title>
+
+    <p>
+      Some numbers cannot be written as fractions.
+      Examples include <m>\sqrt{2}</m> and <m>\pi</m>.
+    </p>
+
+    <p>
+      These are called irrational numbers.
+      They fill gaps left by the rational numbers.
+    </p>
+  </section>
+
+  <section xml:id="real-numbers">
+    <title>The Real Numbers</title>
+
+    <p>
+      The real numbers consist of all rational and irrational numbers.
+      They form a complete number line with no gaps.
+    </p>
+
+    <p>
+      We write:
+      <m>\R = \Q \cup (\R \setminus \Q)</m>.
+    </p>
+
+    <p>
+      Real numbers can be represented on a number line
+      and compared using inequalities.
+    </p>
+  </section>
+
+  <section xml:id="complex-numbers">
+    <title>Complex Numbers</title>
+
+    <p>
+      The equation <m>x^2 = -1</m> has no solution in the real numbers.
+      To make it solvable, we introduce a new number <m>i</m>,
+      defined by <m>i^2 = -1</m>.
+    </p>
+
+    <p>
+      A complex number has the form <m>a + bi</m>,
+      where <m>a</m> and <m>b</m> are real numbers.
+    </p>
+
+    <p>
+      Complex numbers are represented on the Argand diagram
+      and have a magnitude called the modulus.
+    </p>
+  </section>
+
+  <section xml:id="hierarchy">
+    <title>The Hierarchy of Number Systems</title>
+
+    <p>
+      Each number system contains the previous one:
+    </p>
+
+    <p>
+      <m>\N \subset \Z \subset \Q \subset \R \subset \C</m>
+    </p>
+
+    <p>
+      Each extension is logical.
+      When an operation fails, mathematics expands the system
+      so the operation becomes possible.
+    </p>
+  </section>
+
+  <section xml:id="closing">
+    <title>Big Idea</title>
+
+    <p>
+      Mathematics is not a list of rules.
+      It is a system of ideas.
+    </p>
+
+    <p>
+      Number systems show how mathematics grows naturally,
+      step by step, by solving its own problems.
+    </p>
+  </section>
+
+</section>

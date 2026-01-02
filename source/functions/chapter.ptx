@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="functions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Functions</title>
+  
+  <introduction>
+    <p>
+      The Functions strand explores relationships between quantities and their 
+      graphical representation.
+    </p>
+  </introduction>
+  
+  <section xml:id="relationships">
+    <title>Relationships and Graphs</title>
+    
+    <p>
+      Understanding how quantities relate and representing relationships graphically.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="linear-relationships">
+    <title>Linear Relationships</title>
+    
+    <p>
+      Linear functions, slope, and y-intercept.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <section xml:id="rates-change">
+    <title>Rates of Change</title>
+    
+    <p>
+      Understanding how quantities change in relation to each other.
+    </p>
+    
+    <p>
+      Content to be added.
+    </p>
+  </section>
+
+  <exercises xml:id="functions-exercises">
+    <title>Exercises</title>
+    
+    <exercise>
+      <statement>
+        <p>
+          Practice problems to be added.
+        </p>
+      </statement>
+    </exercise>
+  </exercises>
+
+</chapter>
