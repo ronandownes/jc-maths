@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <activity xml:id="cba-project-bank">
   <title>Project Ideas for Mathematical Investigations</title>
 
   <p>
-    This activity provides a bank of project ideas to help you choose a suitable topic
-    for your Classroom-Based Assessment (CBA).
+    This activity provides a bank of project ideas to help you choose
+    a suitable topic for your Classroom-Based Assessment (CBA).
   </p>
 
   <p>
@@ -12,7 +13,7 @@
   </p>
 
   <p>
-    The quality of your work will depend on how well you:
+    The quality of your investigation will depend on how well you:
   </p>
 
   <ul>
@@ -51,7 +52,7 @@
 
   <p>
     Once you have chosen a topic, write your investigation question clearly
-    and prepare a short plan showing what data you will collect and how you
-    will analyse it.
+    and prepare a short plan showing what data you will collect
+    and how you will analyse it.
   </p>
 </activity>

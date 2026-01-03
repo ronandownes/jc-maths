@@ -1,111 +1,11 @@
-<chapter xml:id="cba1-mathematical-investigation">
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter
+  xml:id="cba1-mathematical-investigation"
+  xmlns:xi="http://www.w3.org/2001/XInclude">
+
   <title>Classroom-Based Assessment 1: Mathematical Investigation</title>
 
-  <section>
-    <title>What is this assessment?</title>
-    <p>
-      This Classroom-Based Assessment (CBA) is a mathematical investigation.
-      You will choose a question, explore it using mathematics, and explain what you discover.
-    </p>
-    <p>
-      This is <em>not</em> a written test. It is not about memorising methods or getting one correct
-      final answer. It is about how you think, model a situation, solve problems, and communicate
-      your ideas clearly.
-    </p>
-  </section>
-
-  <section>
-    <title>What you will be assessed on</title>
-    <p>This assessment focuses on four key skills:</p>
-    <ul>
-      <li><p>Problem solving</p></li>
-      <li><p>Mathematical modelling</p></li>
-      <li><p>Reasoning and justification</p></li>
-      <li><p>Clear mathematical communication</p></li>
-    </ul>
-  </section>
-
-  <section>
-    <title>The investigation process</title>
-    <p>
-      Your investigation will usually follow these four stages. These stages are not strictly linear.
-      You may move back and forth between them.
-    </p>
-
-    <ol>
-      <li>
-        <p><em>Choose and define a question</em></p>
-        <p>
-          Pick a question that interests you. It may come from mathematics,
-          another subject, or the real world.
-        </p>
-      </li>
-
-      <li>
-        <p><em>Plan your approach</em></p>
-        <p>
-          Decide what information matters, what assumptions you are making,
-          and how you will represent the situation mathematically.
-        </p>
-      </li>
-
-      <li>
-        <p><em>Do the mathematics</em></p>
-        <p>
-          Use calculations, graphs, tables, diagrams, or technology to explore
-          the problem and find results.
-        </p>
-      </li>
-
-      <li>
-        <p><em>Interpret and explain</em></p>
-        <p>
-          Explain what your results mean, whether they make sense,
-          and what the limitations of your investigation are.
-        </p>
-      </li>
-    </ol>
-  </section>
-
-  <section>
-    <title>Choice and collaboration</title>
-    <ul>
-      <li><p>You choose the topic of your investigation.</p></li>
-      <li><p>You choose how to present your work.</p></li>
-      <li><p>You may discuss ideas with others, but what you submit must be your own work.</p></li>
-    </ul>
-  </section>
-
-  <section>
-    <title>What you must submit</title>
-    <p>
-      You will submit one final piece of work that clearly shows your investigation and your thinking.
-    </p>
-    <p>
-      A written report is usually 400–600 words. Other formats such as posters,
-      slides, or short videos may be used if your mathematics and reasoning are clearly explained.
-    </p>
-  </section>
-
-  <section>
-    <title>How your work is judged</title>
-    <p>
-      Your work will be described as <em>Yet to meet expectations</em>,
-      <em>In line with expectations</em>, <em>Above expectations</em>,
-      or <em>Exceptional</em>.
-    </p>
-  </section>
-
-  <section>
-    <title>Why results are not given immediately</title>
-    <p>
-      After the investigation, mathematics teachers meet to compare samples of student work
-      and agree standards. This helps ensure fairness and consistency.
-    </p>
-    <p>
-      Because of this process, results are not given immediately.
-    </p>
-  </section>
+  <!-- your sections here -->
 
   <section>
     <title>Project ideas</title>
