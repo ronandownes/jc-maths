@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter xml:id="unifying-strand">
+<chapter xml:id="unifying">
   <title>Unifying Strand</title>
 
-  <section xml:id="u-building-blocks">
-    <title>Building Blocks</title>
+  <introduction>
+    <p>
+      The Unifying Strand underpins all areas of Junior Cycle Mathematics.
+      It describes the key skills and ways of thinking that students develop
+      as they engage with mathematical ideas across all strands.
+    </p>
 
     <p>
-      <em>U.1</em> recall and demonstrate understanding of the fundamental concepts
+      The learning outcomes below describe what <em>students should be able to do</em>
+      as they progress through Junior Cycle Mathematics.
+    </p>
+  </introduction>
+
+  <section xml:id="u-building-blocks">
+    <title>Building blocks</title>
+
+    <p>
+      <em>U.1</em>
+      recall and demonstrate understanding of the fundamental concepts
       and procedures that underpin each strand
     </p>
 
     <p>
-      <em>U.2</em> apply the procedures associated with each strand accurately,
+      <em>U.2</em>
+      apply the procedures associated with each strand accurately,
       effectively, and appropriately
+    </p>
+
+    <p>
+      <em>U.3</em>
+      recognise that equality is a relationship in which two mathematical
+      expressions have the same value
     </p>
   </section>
 
@@ -20,9 +41,10 @@
     <title>Representation</title>
 
     <p>
-      <em>U.4</em> represent a mathematical situation in a variety of different ways,
-      including: numerically, algebraically, graphically, physically, in words; and
-      to interpret, analyse, and compare such representations
+      <em>U.4</em>
+      represent a mathematical situation in a variety of different ways,
+      including: numerically, algebraically, graphically, physically, in words;
+      and to interpret, analyse, and compare such representations
     </p>
   </section>
 
@@ -30,48 +52,56 @@
     <title>Connections</title>
 
     <p>
-      <em>U.5</em> make connections within and between strands
+      <em>U.5</em>
+      make connections within and between strands
     </p>
 
     <p>
-      <em>U.6</em> make connections between mathematics and the real world
+      <em>U.6</em>
+      make connections between mathematics and the real world
     </p>
   </section>
 
   <section xml:id="u-problem-solving">
-    <title>Problem Solving</title>
+    <title>Problem solving</title>
 
     <p>
-      <em>U.7</em> make sense of a given problem, and if necessary mathematise a situation
+      <em>U.7</em>
+      make sense of a given problem, and if necessary mathematise a situation
     </p>
 
     <p>
-      <em>U.8</em> apply their knowledge and skills to solve a problem, including
-      decomposing it into manageable parts and/or simplifying it using appropriate
-      assumptions
+      <em>U.8</em>
+      apply their knowledge and skills to solve a problem, including
+      decomposing it into manageable parts and/or simplifying it using
+      appropriate assumptions
     </p>
 
     <p>
-      <em>U.9</em> interpret their solution to a problem in terms of the original question
+      <em>U.9</em>
+      interpret their solution to a problem in terms of the original question
     </p>
 
     <p>
-      <em>U.10</em> evaluate different possible solutions to a problem, including
-      evaluating the reasonableness of the solutions, and exploring possible improvements
-      and/or limitations of the solutions (if any)
+      <em>U.10</em>
+      evaluate different possible solutions to a problem, including
+      evaluating the reasonableness of the solutions, and exploring possible
+      improvements and/or limitations of the solutions (if any)
     </p>
   </section>
 
   <section xml:id="u-generalisation-proof">
-    <title>Generalisation and Proof</title>
+    <title>Generalisation and proof</title>
 
     <p>
-      <em>U.11</em> generate general mathematical statements or conjectures based on
+      <em>U.11</em>
+      generate general mathematical statements or conjectures based on
       specific instances
     </p>
 
     <p>
-      <em>U.12</em> generate and evaluate mathematical arguments and proofs
+      <em>U.12</em>
+      generate and evaluate mathematical arguments and proofs
     </p>
   </section>
 
@@ -79,9 +109,11 @@
     <title>Communication</title>
 
     <p>
-      <em>U.13</em> communicate mathematics effectively: justify their reasoning,
-      interpret their results, explain their conclusions, and use the language and
-      notation of mathematics to express mathematical ideas precisely
+      <em>U.13</em>
+      communicate mathematics effectively: justify their reasoning,
+      interpret their results, explain their conclusions, and use the
+      language and notation of mathematics to express mathematical ideas
+      precisely
     </p>
   </section>
 
