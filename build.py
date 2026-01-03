@@ -1,18 +1,19 @@
 """
 build.py
 
-Builds the Junior Cycle Maths PreTeXt project.
+Build the Junior Cycle Maths PreTeXt project.
+Run from the project root.
 
 Usage:
-  python scripts/build.py
+  python build.py
 """
 
 import subprocess
 import sys
 from pathlib import Path
 
-# --- Configuration ---
-PROJECT_ROOT = Path(__file__).resolve().parents[1]  # jc-maths/
+# Project root is the folder this file lives in
+PROJECT_ROOT = Path(__file__).resolve().parent
 TARGET = "web"  # matches <target name="web"> in project.ptx
 
 def main():
