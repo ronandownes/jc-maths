@@ -111,6 +111,8 @@
     <xi:include href="geometry-trig/chapter.ptx"/>
     <xi:include href="algebra/chapter.ptx"/>
     <xi:include href="functions/chapter.ptx"/>
+    <xi:include href="assessment/chapter.ptx"/>
+
 
     <backmatter xml:id="backmatter">
       <index>
