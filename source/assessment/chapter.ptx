@@ -109,5 +109,9 @@
       Use these for inspiration, not for copying.
     </p>
   </section>
+<section>
+  <title>Project ideas</title>
+  <xi:include href="cba-bank.ptx"/>
+</section>
 
 </chapter>
