@@ -1,98 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter xml:id="unifying" xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xml:id="unifying-strand">
   <title>Unifying Strand</title>
-  
-  <introduction>
+
+  <section xml:id="u-building-blocks">
+    <title>Building Blocks</title>
+
     <p>
-      The Unifying strand develops the mathematical practices that connect all areas 
-      of mathematics: thinking, reasoning, communicating, and problem-solving.
+      <em>U.1</em> recall and demonstrate understanding of the fundamental concepts
+      and procedures that underpin each strand
     </p>
-  </introduction>
-  
-  <section xml:id="mathematical-thinking">
-    <title>Mathematical Thinking</title>
-    
+
     <p>
-      Mathematical thinking involves recognizing patterns, making connections, and 
-      asking questions.
-    </p>
-    
-    <p>
-      Content to be added.
+      <em>U.2</em> apply the procedures associated with each strand accurately,
+      effectively, and appropriately
     </p>
   </section>
 
-  <section xml:id="representation">
+  <section xml:id="u-representation">
     <title>Representation</title>
-    
+
     <p>
-      Mathematics can be represented in many ways: symbols, diagrams, tables, graphs, 
-      and words.
-    </p>
-    
-    <p>
-      Content to be added.
+      <em>U.4</em> represent a mathematical situation in a variety of different ways,
+      including: numerically, algebraically, graphically, physically, in words; and
+      to interpret, analyse, and compare such representations
     </p>
   </section>
 
-  <section xml:id="connections">
+  <section xml:id="u-connections">
     <title>Connections</title>
-    
+
     <p>
-      Mathematics connects to itself, to other subjects, and to the real world.
+      <em>U.5</em> make connections within and between strands
     </p>
-    
+
     <p>
-      Content to be added.
+      <em>U.6</em> make connections between mathematics and the real world
     </p>
   </section>
 
-  <section xml:id="problem-solving">
+  <section xml:id="u-problem-solving">
     <title>Problem Solving</title>
-    
+
     <p>
-      Problem solving is at the heart of mathematics.
+      <em>U.7</em> make sense of a given problem, and if necessary mathematise a situation
     </p>
-    
+
     <p>
-      Content to be added.
+      <em>U.8</em> apply their knowledge and skills to solve a problem, including
+      decomposing it into manageable parts and/or simplifying it using appropriate
+      assumptions
+    </p>
+
+    <p>
+      <em>U.9</em> interpret their solution to a problem in terms of the original question
+    </p>
+
+    <p>
+      <em>U.10</em> evaluate different possible solutions to a problem, including
+      evaluating the reasonableness of the solutions, and exploring possible improvements
+      and/or limitations of the solutions (if any)
     </p>
   </section>
 
-  <section xml:id="reasoning">
-    <title>Reasoning and Proof</title>
-    
+  <section xml:id="u-generalisation-proof">
+    <title>Generalisation and Proof</title>
+
     <p>
-      Mathematical reasoning builds arguments and justifies conclusions.
+      <em>U.11</em> generate general mathematical statements or conjectures based on
+      specific instances
     </p>
-    
+
     <p>
-      Content to be added.
+      <em>U.12</em> generate and evaluate mathematical arguments and proofs
     </p>
   </section>
 
-  <section xml:id="communication">
+  <section xml:id="u-communication">
     <title>Communication</title>
-    
+
     <p>
-      Communicating mathematical ideas clearly is essential.
-    </p>
-    
-    <p>
-      Content to be added.
+      <em>U.13</em> communicate mathematics effectively: justify their reasoning,
+      interpret their results, explain their conclusions, and use the language and
+      notation of mathematics to express mathematical ideas precisely
     </p>
   </section>
-
-  <exercises xml:id="unifying-exercises">
-    <title>Exercises</title>
-    
-    <exercise>
-      <statement>
-        <p>
-          Practice problems to be added.
-        </p>
-      </statement>
-    </exercise>
-  </exercises>
 
 </chapter>
