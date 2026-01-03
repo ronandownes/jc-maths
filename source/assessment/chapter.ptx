@@ -111,7 +111,7 @@
   </section>
 <section>
   <title>Project ideas</title>
-  <xi:include href="cba-bank.ptx"/>
+  <xi:include href="assessment/cba-bank.ptx"/>
 </section>
 
 </chapter>
