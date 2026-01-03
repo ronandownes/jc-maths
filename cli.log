@@ -1,0 +1,36 @@
+INFO    : PreTeXt project found in `E:\jc-maths`.
+WARNING : Project's CLI version could not be detected from `requirements.txt`.
+WARNING : Try `pretext init --refresh` to produce a compatible file.
+INFO    : 
+WARNING : Assets like latex-images will not be regenerated for this build
+WARNING : (previously generated assets will be used if they exist).
+WARNING : To generate these assets before building, run `pretext build -g`.
+INFO    : Preparing to build into E:\jc-maths\output\web.
+INFO    : 
+Now building HTML into E:\jc-maths\output\web
+
+INFO    : discovering source file's directory name: E:\jc-maths\source
+INFO    : verifying and expanding input directory: E:\jc-maths\source\../generated-assets
+INFO    : input directory expanded to absolute path: E:\jc-maths\generated-assets
+INFO    : verifying and expanding input directory: E:\jc-maths\source\../assets
+INFO    : input directory expanded to absolute path: E:\jc-maths\assets
+INFO    : converting E:\jc-maths\source\main.ptx to HTML in C:\Users\ronan\AppData\Local\Temp\tmpet_4_sz2
+INFO    : XSL conversion of E:\jc-maths\source\main.ptx by C:\Users\ronan\.ptx\xsl\pretext-html.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    :     * PTX:BUG:  development bug, new level does not match old level for "subsection"
+INFO    :     *              located within: "jc-strands" (xml:id), "The Five Strands" (title)
+INFO    :     * PTX:BUG:  development bug, new level does not match old level for "subsection"
+INFO    :     *              located within: "study-approach" (xml:id), "How to Study Mathematics" (title)
+INFO    :     * PTX:BUG:  development bug, new level does not match old level for "subsection"
+INFO    :     *              located within: "exam-prep" (xml:id), "Preparing for Assessments" (title)
+INFO    :     * PTX:BUG:  development bug, new level does not match old level for "subsection"
+INFO    :     *              located within: "jc-strands" (xml:id), "The Five Strands" (title)
+INFO    :     * PTX:BUG:  development bug, new level does not match old level for "subsection"
+INFO    :     *              located within: "study-approach" (xml:id), "How to Study Mathematics" (title)
+INFO    :     * PTX:BUG:  development bug, new level does not match old level for "subsection"
+INFO    :     *              located within: "exam-prep" (xml:id), "Preparing for Assessments" (title)
+INFO    : successful application of C:\Users\ronan\.ptx\xsl\pretext-html.xsl
+INFO    : 
+Success! Run `pretext view web` to see the results.
+
+INFO    : 

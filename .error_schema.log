@@ -1,0 +1,3 @@
+file:/E:/jc-maths/source/main.ptx:31:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element idx, got title
+file:/E:/jc-maths/source/main.ptx:23:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element frontmatter there
+file:/E:/jc-maths/source/main.ptx:20:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element book failed to validate content
