@@ -14,7 +14,7 @@ INFO    : verifying and expanding input directory: E:\jc-maths\source\../generat
 INFO    : input directory expanded to absolute path: E:\jc-maths\generated-assets
 INFO    : verifying and expanding input directory: E:\jc-maths\source\../assets
 INFO    : input directory expanded to absolute path: E:\jc-maths\assets
-INFO    : converting E:\jc-maths\source\main.ptx to HTML in C:\Users\ronan\AppData\Local\Temp\tmpjj6on04g
+INFO    : converting E:\jc-maths\source\main.ptx to HTML in C:\Users\ronan\AppData\Local\Temp\tmprsupczdh
 INFO    : XSL conversion of E:\jc-maths\source\main.ptx by C:\Users\ronan\.ptx\xsl\pretext-html.xsl
 INFO    : comprehensive messages, warnings, and errors:
 INFO    :     * PTX:BUG:  development bug, new level does not match old level for "subsection"
